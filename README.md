@@ -39,7 +39,7 @@
 * 
 ## 🔍 API Preview
 
-![Swagger](screenshot1.png)
+![Preview](screenshot1.png)
 
 👉 [View Project](https://github.com/hasanmertyilmaz/task-manager-api)
 
