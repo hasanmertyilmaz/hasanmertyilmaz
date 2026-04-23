@@ -39,4 +39,4 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: (link koy)
+* LinkedIn: https://www.linkedin.com/in/hasanmertyilmaz/
