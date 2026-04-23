@@ -25,17 +25,17 @@
 ---
 
 📌 Featured Project
+
 🗂️ Task Manager API
 
 🚀 REST API built with Spring Boot for managing tasks
 
 🔑 Features:
-
-CRUD operations (Create, Read, Update, Delete)
-Exception handling
-Input validation
-Clean layered architecture
-Swagger UI integration
+* CRUD operations (Create, Read, Update, Delete)
+* Exception handling
+* Input validation
+* Clean layered architecture
+* Swagger UI integration
 🔍 API Preview
 
 👉 [View Project](https://github.com/hasanmertyilmaz/task-manager-api)
