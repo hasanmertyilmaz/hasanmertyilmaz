@@ -24,16 +24,21 @@
 
 ---
 
-## 📌 Featured Projects
+📌 Featured Project
+🗂️ Task Manager API
 
-### 🧾 Personal Finance Tracker API
+🚀 REST API built with Spring Boot for managing tasks
 
-* REST API with Spring Boot
-* JWT Authentication
-* Transaction & Balance tracking
-* Clean layered architecture
+🔑 Features:
 
-👉 [View Project](https://github.com/hasanmertyilmaz/personal-finance-tracker-api)
+CRUD operations (Create, Read, Update, Delete)
+Exception handling
+Input validation
+Clean layered architecture
+Swagger UI integration
+🔍 API Preview
+
+👉 [View Project](https://github.com/hasanmertyilmaz/task-manager-api)
 
 ---
 
