@@ -36,7 +36,10 @@
 * Input validation
 * Clean layered architecture
 * Swagger UI integration
-🔍 API Preview
+* 
+## 🔍 API Preview
+
+![Swagger](screenshot1.png)
 
 👉 [View Project](https://github.com/hasanmertyilmaz/task-manager-api)
 
